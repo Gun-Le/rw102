@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS Testing_System_Assignment_2;
-CREATE DATABASE Testing_System_Assignment_2;
-USE Testing_System_Assignment_2;
+DROP DATABASE IF EXISTS Testing_System_Assignment_1;
+CREATE DATABASE Testing_System_Assignment_1;
+USE Testing_System_Assignment_1;
 
 ---Table 1:Department ---
 ----DepartmentID:  định danh của phòng ban (auto increment) ----
