@@ -55,6 +55,7 @@ public class Program {
         Exercise5.question9();
         Exercise5.question10();
         Exercise5.question11();
+        Exercise5.questionDemo();
 
         // ================== EXERCISE 6 ==================
         Exercise6.question1();
